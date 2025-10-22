@@ -3,12 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="$USER_HOME$/anaconda3" />
   </component>
-  <component name="MaterialThemeProjectNewConfig">
-    <option name="metadata">
-      <MTProjectMetadataState>
-        <option name="userId" value="-7da61f6:1912bb14009:-7fff" />
-      </MTProjectMetadataState>
-    </option>
-  </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (NLP_Class_SP24)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (NLP_Class_SP24)" project-jdk-type="Python SDK" />
 </project>
