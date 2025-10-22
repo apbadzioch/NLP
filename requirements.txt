@@ -1,3 +1,5 @@
 nltk
 numpy
 matplotlib
+scipy
+scikit-learn
